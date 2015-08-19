@@ -1,0 +1,1 @@
+C:\Users\janpos\Documents\Visual Studio 2013\Projects\buildPrague\TemperatureSensor\TemperatureSensor.csproj;arm
